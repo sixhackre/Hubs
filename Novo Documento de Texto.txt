@@ -1,0 +1,1017 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Horrific Housing Gui (Made By External", HidePremium = false, SaveConfig = true, ConfigFolder = "ExternalGui"})
+
+
+OrionLib:MakeNotification({
+	Name = "External Gui",
+	Content = "GUI loaded, credits to External",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
+
+local Tab = Window:MakeTab({
+	Name = "Fun",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+Tab:AddLabel("Infinite Things Idk")
+
+Tab:AddButton({
+	Name = "Money Infinito fodase",
+	Callback = function()
+
+OrionLib:MakeNotification({
+	Name = "Warn!",
+	Content = "Executed (Only Use 1 Time)",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
+while wait() do
+game:GetService("ReplicatedStorage").LoginRewards:FireServer()
+game:GetService("ReplicatedStorage").LoginRewards:FireServer()
+game:GetService("ReplicatedStorage").LoginRewards:FireServer()
+game:GetService("ReplicatedStorage").LoginRewards:FireServer()
+game:GetService("ReplicatedStorage").LoginRewards:FireServer()
+game:GetService("ReplicatedStorage").LoginRewards:FireServer()
+ 
+game:GetService("ReplicatedStorage").LoginRewards:FireServer()
+end
+end
+
+})
+
+
+Tab:AddButton({
+	Name = "Meus Ovo Infinito Tambem (Spamma ai)",
+	Callback = function()
+
+
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+
+
+
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+
+
+
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "EggPets"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+local A_1 = 
+{
+	[1] = "Egg1", 
+	[2] = "Egg10", 
+	[3] = "Egg11", 
+	[4] = "Egg12", 
+	[5] = "Egg100"
+}
+local Event = game:GetService("ReplicatedStorage").FuseEggs
+Event:FireServer(A_1)
+
+
+end
+})
+
+
+
+
+
+
+
+
+Tab:AddButton({
+	Name = "Comprar Tudo Da Loja Fodase (Spamma Tambem)",
+	Callback = function()
+
+local A_1 = 1
+local A_2 = "Ornament"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Ornament"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Ornament"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Ornament"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Ornament"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Furniture"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Furniture"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Furniture"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Furniture"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Furniture"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Death"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Death"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Death"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Death"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "Death"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "HouseChest"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "HouseChest"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "HouseChest"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "HouseChest"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+local A_1 = 1
+local A_2 = "HouseChest"
+local Event = game:GetService("ReplicatedStorage").ShopPurchase
+Event:FireServer(A_1, A_2)
+
+end
+
+})
